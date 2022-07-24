@@ -1,0 +1,13 @@
+GET https://petstore.octoperf.com/images/sm_reptiles.gif HTTP/2.0
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+sec-ch-ua-platform: "Windows"
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://petstore.octoperf.com/actions/Catalog.action;jsessionid=8E38AD68E447FEF480B20EC56E8941FE
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+

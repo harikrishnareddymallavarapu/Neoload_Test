@@ -1,0 +1,9 @@
+GET http://188.166.142.39/servers/list HTTP/1.1
+Host: 188.166.142.39
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+

@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=Neoload_Test
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=8.1.1
+product.original.version=8.1.1
+project.is-open-test-settings-after-upload=false
+project.id=ac648470-cd53-420b-9cb2-7e0b511064c5
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false

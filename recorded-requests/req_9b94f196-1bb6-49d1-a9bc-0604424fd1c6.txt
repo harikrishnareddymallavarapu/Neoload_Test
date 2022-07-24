@@ -1,0 +1,9 @@
+GET http://au7.sidoo.org/api/test?270239405340 HTTP/1.1
+Host: au7.sidoo.org
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+DNT: 1
+Accept: */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
